@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ms-config-porperties/ms-config-porperties.iml" filepath="$PROJECT_DIR$/../ms-config-porperties/ms-config-porperties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ms-config-server/ms-config-server.iml" filepath="$PROJECT_DIR$/../ms-config-server/ms-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-discovery.iml" filepath="$PROJECT_DIR$/ms-discovery.iml" />
+    </modules>
+  </component>
+</project>
