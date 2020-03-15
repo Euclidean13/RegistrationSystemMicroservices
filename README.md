@@ -10,3 +10,7 @@ keep configuration files in git repository
 message "USER_REGISTERED" to the message broker (Kafka)
 5. **Email service**: using this one we will send emails. On "USER_REGISTERED" message received the Email service will send
 a confirmation email to the new user.
+
+
+# References
+Blog: https://medium.com/@isilona/building-microservices-with-netflix-oss-apache-kafka-and-spring-boot-part-1-3397811a2781
